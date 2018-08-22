@@ -12,3 +12,9 @@ welcome to git
 
 start java
 
+
+some other changes
+
+included in file
+
+

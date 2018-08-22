@@ -77,3 +77,10 @@ void odd()
    printf("even");
   else printf("odd");
 }
+\
+
+changing in second file 
+
+for practise
+
+
