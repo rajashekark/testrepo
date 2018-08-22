@@ -8,4 +8,7 @@ printf("%c%c",c,d);
 }
 
 
+welcome to git
+
+start java
 
